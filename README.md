@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mario1306
-- 👀 I’m interested Spring Boot
-- 🌱 I’m react
-- 💞️ I’m looking to collaborate on a Spring Boot project
+- 👀 I’m interested in Spring Boot
+- 🌱 I’m currently learning react
 - 📫 mkwiecin@poczta.onet.pl
 
 <!---
